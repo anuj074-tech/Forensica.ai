@@ -1,0 +1,60 @@
+{
+  "node": {
+    "40b6f19be3538c4b7b408a0e8719241a732d252bbe": {
+      "workers": {
+        "app/case/[caseId]/report/page": {
+          "moduleId": "[project]/.next-internal/server/app/case/[caseId]/report/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/reconstruct-crime-scene-3d.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/detect-identify-objects.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/analyze-bloodstain-patterns.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-investigative-report.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case/[caseId]/report/page": "action-browser"
+      }
+    },
+    "402d3e5203ae9408c53d67ef394ef2f457196b4eb1": {
+      "workers": {
+        "app/case/[caseId]/report/page": {
+          "moduleId": "[project]/.next-internal/server/app/case/[caseId]/report/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/reconstruct-crime-scene-3d.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/detect-identify-objects.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/analyze-bloodstain-patterns.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-investigative-report.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case/[caseId]/report/page": "action-browser"
+      }
+    },
+    "40e38856acb4991c435853407fb1dcecfb030c0dd4": {
+      "workers": {
+        "app/case/[caseId]/report/page": {
+          "moduleId": "[project]/.next-internal/server/app/case/[caseId]/report/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/reconstruct-crime-scene-3d.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/detect-identify-objects.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/analyze-bloodstain-patterns.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-investigative-report.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case/[caseId]/report/page": "action-browser"
+      }
+    },
+    "402f10b134f6bd81ada28c535fb73da092f617bb83": {
+      "workers": {
+        "app/case/[caseId]/report/page": {
+          "moduleId": "[project]/.next-internal/server/app/case/[caseId]/report/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/reconstruct-crime-scene-3d.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/detect-identify-objects.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/analyze-bloodstain-patterns.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-investigative-report.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case/[caseId]/report/page": "action-browser"
+      }
+    },
+    "40069713071d034c6325a8d68936b32088f829d398": {
+      "workers": {
+        "app/case/[caseId]/report/page": {
+          "moduleId": "[project]/.next-internal/server/app/case/[caseId]/report/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/reconstruct-crime-scene-3d.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/detect-identify-objects.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/analyze-bloodstain-patterns.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-investigative-report.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case/[caseId]/report/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
