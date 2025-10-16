@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "data-ingestion",
+      "description": "A terminal window showing file uploads.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "upload files"
+    },
+    {
+      "id": "scene-reconstruction",
+      "description": "A wireframe 3D model of a room.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "3d model"
+    },
+    {
+      "id": "object-detection",
+      "description": "A magnifying glass over a clue.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "magnifying glass"
+    },
+    {
+      "id": "forensic-analysis",
+      "description": "A close-up of a DNA helix.",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "dna strand"
+    },
+    {
+      "id": "statement-analysis",
+      "description": "Soundwaves representing a voice recording.",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "person talking"
+    },
+    {
+      "id": "relational-graph",
+      "description": "A network graph of connected nodes.",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "network graph"
+    },
+    {
+      "id": "report-generation",
+      "description": "A formal document with charts and text.",
+      "imageUrl": "https://picsum.photos/seed/7/600/400",
+      "imageHint": "document report"
+    }
+  ]
+}
