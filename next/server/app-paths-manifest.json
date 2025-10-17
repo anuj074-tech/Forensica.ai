@@ -1,0 +1,6 @@
+{
+  "/case-analysis/page": "app/case-analysis/page.js",
+  "/evidence/page": "app/evidence/page.js",
+  "/page": "app/page.js",
+  "/weapon-inference/page": "app/weapon-inference/page.js"
+}
