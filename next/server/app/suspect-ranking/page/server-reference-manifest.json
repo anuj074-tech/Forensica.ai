@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40b4b832aaf2acb7a5980f31f06dab4b7b61349684": {
+      "workers": {
+        "app/suspect-ranking/page": {
+          "moduleId": "[project]/.next-internal/server/app/suspect-ranking/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/rank-suspects-by-motive.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/suspect-ranking/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
