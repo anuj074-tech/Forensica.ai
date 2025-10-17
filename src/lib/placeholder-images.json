@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "evidence-1",
+      "description": "Security camera footage from the hallway.",
+      "imageUrl": "https://picsum.photos/seed/ev1/600/400",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "evidence-2",
+      "description": "Footprint found near the back door.",
+      "imageUrl": "https://picsum.photos/seed/ev2/600/400",
+      "imageHint": "footprint mud"
+    },
+    {
+      "id": "evidence-3",
+      "description": "A mysterious note found on the victim's desk.",
+      "imageUrl": "https://picsum.photos/seed/ev3/600/400",
+      "imageHint": "handwritten note"
+    },
+    {
+      "id": "evidence-4",
+      "description": "A broken window, possible entry point.",
+      "imageUrl": "https://picsum.photos/seed/ev4/600/400",
+      "imageHint": "broken window"
+    },
+    {
+      "id": "evidence-5",
+      "description": "Overturned furniture in the living room.",
+      "imageUrl": "https://picsum.photos/seed/ev5/600/400",
+      "imageHint": "messy room"
+    },
+    {
+      "id": "evidence-6",
+      "description": "Close-up of potential weapon mark on wall.",
+      "imageUrl": "https://picsum.photos/seed/ev6/600/400",
+      "imageHint": "forensic evidence"
+    },
+    {
+      "id": "evidence-7",
+      "description": "Latent fingerprint on a glass surface.",
+      "imageUrl": "https://picsum.photos/seed/ev7/600/400",
+      "imageHint": "fingerprint evidence"
+    },
+    {
+      "id": "evidence-8",
+      "description": "Digital forensic data from victim's laptop.",
+      "imageUrl": "https://picsum.photos/seed/ev8/600/400",
+      "imageHint": "computer screen"
+    }
+  ]
+}
