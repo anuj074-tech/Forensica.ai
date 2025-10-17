@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40f7940a759b459d55fddb4ae91c469d4cbf53ce24": {
+      "workers": {
+        "app/case-analysis/page": {
+          "moduleId": "[project]/.next-internal/server/app/case-analysis/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/create-case-dossier.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/case-analysis/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
