@@ -1,4 +1,4 @@
-# Firebase Studio
+# Forensica.ai 
 
 This is a NextJS starter
 
