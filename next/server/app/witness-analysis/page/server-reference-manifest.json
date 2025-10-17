@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40ff9e7619ad5e31439b3752e0d9ed60509dada00d": {
+      "workers": {
+        "app/witness-analysis/page": {
+          "moduleId": "[project]/.next-internal/server/app/witness-analysis/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-witness-statements.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/witness-analysis/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
