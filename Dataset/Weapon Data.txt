@@ -1,0 +1,62 @@
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Deep, linear cut on left forearm, approximately 7cm long, with irregular edges.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Bedroom floor with scattered objects, signs of struggle, blood spatter concentrated near the bed.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Male, 32 years old, wearing a t-shirt and jeans, defensive cuts on right hand.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Circular puncture wound on upper chest, 2cm diameter, minimal bleeding.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Living room, furniture overturned, blood trail leading to the balcony.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Female, 28 years old, in casual dress, no defensive wounds observed.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Multiple shallow cuts on both hands, 1–2 cm each, consistent with defensive injuries.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Kitchen, broken glass on floor, signs of scuffle near the sink.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Male, 40 years old, wearing apron over shirt, minor bruises on arms.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Deep stab wound to the abdomen, 10cm deep, irregular edges.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Dining area, blood spatter on table, chair knocked over.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Female, 35 years old, wearing a dress, severe internal bleeding, no defensive wounds.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Blunt force trauma to the head, large laceration above right eyebrow, bruising on face.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Bathroom, broken mirror, water on the floor, signs of violent struggle.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Male, 50 years old, wearing pajamas, unconscious, no defensive wounds.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Small incised wounds on left thigh, approximately 2cm long, shallow.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Backyard, flower pots overturned, some blood on garden tools.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Female, 22 years old, casual wear, minor scratches on arms.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Gunshot wound on right shoulder, exit wound on back, soot marks around entry.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Office, chair toppled, papers scattered, blood trail leading to exit door.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Male, 38 years old, wearing shirt and tie, defensive wounds on left arm.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Multiple stab wounds on the torso, varying depth, defensive wounds on hands.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Garage, blood on tools, tire marks on floor, signs of violent struggle.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Female, 30 years old, wearing jacket and jeans, injuries consistent with self-defense.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Circular burn mark on right forearm, 3cm diameter, surrounding redness.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Living room, smell of burnt material, scorch marks on carpet.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Male, 25 years old, wearing t-shirt, mild pain, no defensive wounds.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "wound_description": "Linear cuts across back, 5–7cm each, shallow to medium depth.",
+&nbsp;&nbsp;&nbsp; "scene_description": "Alleyway, trash scattered, blood splatters on wall.",
+&nbsp;&nbsp;&nbsp; "victim_description": "Female, 27 years old, hoodie and jeans, scratches on arms, minor bruises.",
+&nbsp;&nbsp;&nbsp; "weapon_mark_image": ""
+&nbsp; }
+]

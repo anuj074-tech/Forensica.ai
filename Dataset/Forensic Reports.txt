@@ -1,0 +1,2916 @@
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-001",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "30° from front-right",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T21:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on left forearm, minor abrasions on knees",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated left lung, moderate internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis fixed, rigor mortis present"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in living room. No signs of struggle."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-002",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Irregular, approx. 12cm laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct top impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T18:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling around forehead, facial bruising",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, moderate lividity"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.12%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Benzodiazepines",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found near staircase, possible accidental fall but circumstances suspicious."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-003",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Ligature marks on neck, horizontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T03:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on wrists, red marks on neck",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed trachea, minor hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis patchy, rigor mortis in early stage"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Trace opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim discovered in bedroom, hands bound, signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-004",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Stab wound, 6cm depth, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T22:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Small defensive cuts on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated liver, minor intestine damage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition in extremities"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Crime scene shows signs of struggle. Blood spatter analysis ongoing."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-005",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Asphyxiation due to smoke inhalation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T04:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Soot around nose and mouth, mild burns on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lungs congested with soot, minor carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis patchy, tissue darkened"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level 20%"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in kitchen, fire source appears electrical."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-006",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple gunshot wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Various calibers, circular, 7–11mm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various, mostly frontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T19:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on torso, small lacerations on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal bleeding, ruptured spleen and lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cocaine detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alleyway, no identification on person."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-007",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Fluid in lungs, foam in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis present, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in river near park, clothes intact, no signs of struggle."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-008",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T23:55:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock, tissue necrosis near contact points",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop, electrical source unplugged. Scene looks accidental."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-009",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T02:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Liver congestion, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom, paraphernalia nearby, no signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-010",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T05:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers and toes",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, mild organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent due to cold exposure"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside in abandoned lot, clothing inadequate for weather conditions."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-051",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from right temple",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T01:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on cheeks and forehead",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe cranial fracture, brain tissue laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alleyway near warehouse. Close-range shot suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-052",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 12cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on chest and shoulders",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Rib fractures, minor lung hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking lot. No ID, suspected assault."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-053",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Horizontal marks around neck, rope",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T02:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks, minor abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed trachea, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Sedatives detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Forced entry present. Signs of struggle evident."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-054",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Stab wound, 8cm depth",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms, minor bruising",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated intestines, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-055",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "CO level 30%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Car engine running, accidental death suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-056",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple gunshot wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Various, 7–11mm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Frontal and lateral",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T19:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal bleeding, spleen rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cocaine",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking garage. Suspected gang-related homicide."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-057",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Foam in airways, fluid in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river near bridge. No signs of foul play."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-058",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental electrocution likely."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-059",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T03:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom with drug paraphernalia. No forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-060",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned building. Inadequate clothing for weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-011",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 11mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T20:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Lacerations on scalp, bruising around eyes",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe cranial fracture, brain hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis fixed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.09%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in office room, desk overturned, no fingerprints detected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-012",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple contusions, approx. 5–10cm each",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T21:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on arms and back, scratches on legs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Rib fractures, minor lung contusions",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near garage, possible assault scenario. Blood traces on floor."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-013",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Strangulation with rope",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Ligature marks, rope impressions",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T01:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on neck, abrasions on hands and wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed larynx, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early stage, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of benzodiazepines",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in attic, hands tied, forced entry suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-014",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to neck",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Deep incised wound, 8cm length",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Top-left to bottom-right",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T23:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severed carotid artery, jugular vein damage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in kitchen, signs of struggle, knife nearby."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-015",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T06:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Mild cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Blood CO level 35%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in garage with car engine running. Scene suggests accidental death."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-016",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple stab wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Several, 5–10cm, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various, mostly frontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T20:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on hands, bruising on torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Liver laceration, perforated lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cannabis metabolites",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim discovered in alleyway, blood spatter pattern under investigation."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-017",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in bathtub",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T08:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Mild contusions on elbows",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, frothy fluid in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.11%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in bathroom, water cold. No signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-018",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on palms and forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with exposed wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T22:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on hands, minor burns on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in workshop, exposed wire nearby. Scene suggests accidental death."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-019",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T03:55:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms and legs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, methadone",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom, syringes nearby. No forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-020",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, ears, and toes",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent due to extreme cold"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse, clothing inadequate for weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-021",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 10mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "30° from front-left",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on hands, small abrasions on knees",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated small intestine, moderate internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis fixed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley behind apartment. No witnesses yet."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-022",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 15cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T20:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on forehead and cheeks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.11%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking lot, no identification. Possible mugging."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-023",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Ligature marks around neck, horizontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T02:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks and bruising on neck, abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed trachea, minor hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Trace opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage, hands bound. Forced entry suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-024",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Stab wound, 8cm depth, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from right side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T22:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, minor heart injury",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-025",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Smoke inhalation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T05:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Soot around nose and mouth, minor burns on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lungs congested with soot, carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis patchy, tissue darkened"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level 25%"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in kitchen. Fire appears electrical in origin."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-026",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple gunshot wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Various calibers, 7–11mm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Frontal and lateral",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T19:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal bleeding, ruptured spleen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cocaine detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking garage, no ID. Suspected gang-related."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-027",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on arms and legs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Foam in airways, fluid in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in river near bridge. No signs of struggle or foul play."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-028",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T23:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Found in workshop, electrical source unplugged. Likely accidental."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-029",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T03:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.01%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Paraphernalia nearby. No forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-030",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T06:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on toes and fingers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near park. Clothing insufficient for weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-031",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to back",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "20° from top-right",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T21:55:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Small abrasions on shoulders, minor bruising on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lung perforation, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis fixed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alleyway behind building. No ID, no witnesses."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-032",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 14cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct impact from above",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T21:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising around eyes and cheeks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in park. No signs of struggle, suspected assault by unknown individual."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-033",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Rope impressions around neck, horizontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T02:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks on neck, abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed larynx, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early stage, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Hands tied, signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-034",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Incised wound, 7cm depth",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T22:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on hands, bruising on torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated intestines, minor liver damage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Signs of struggle evident."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-035",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T05:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Blood CO level 32%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage, car engine running. Scene suggests accidental death."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-036",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple stab wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Several, 6–10cm, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various angles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T20:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms, bruising on torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cannabis metabolites",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley, blood spatter suggests close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-037",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in bathtub",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T08:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor contusions on elbows",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, frothy fluid in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.12%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bathroom. No forced entry; water cold. Possible accidental drowning."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-038",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T23:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Exposed wire nearby. Scene likely accidental."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-039",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T03:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Liver congestion, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, methadone",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Paraphernalia nearby. No signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-040",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent due to cold exposure"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse. Clothing insufficient for weather conditions."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-041",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to shoulder",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "15° from front-left",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T20:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on shoulder and upper arm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Punctured lung, moderate internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis fixed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alleyway near construction site. Possible robbery scenario."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-042",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Contusion, 12cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T21:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on forehead and nose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.10%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near park bench. No ID, suspected assault."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-043",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Rope impressions around neck, diagonal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T02:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks on neck, abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed larynx, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Signs of forced entry and struggle present."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-044",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Incised wound, 9cm length",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Top-left to bottom-right",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T22:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, minor heart laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Blood spatter analysis ongoing."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-045",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Smoke inhalation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T05:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Soot around nose and mouth, minor burns on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lungs congested with soot, carbon monoxide level 28%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Livor mortis patchy, tissue darkened"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in kitchen with fire damage. Likely accidental death."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-046",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple gunshot wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Various, 7–11mm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Frontal and lateral",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T19:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal bleeding, ruptured spleen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cocaine detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking garage. Suspected gang-related attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-047",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on arms and legs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Foam in airways, fluid in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river near bridge. No signs of struggle, accidental drowning possible."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-048",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-16T23:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on hands and forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-049",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T04:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom with paraphernalia nearby. No forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-050",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T07:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse. Clothing insufficient for weather conditions."
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; }
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-051",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from right temple",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T01:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on cheeks and forehead",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe cranial fracture, brain tissue laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alleyway near warehouse. Close-range shot suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-052",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 12cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on chest and shoulders",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Rib fractures, minor lung hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking lot. No ID, suspected assault."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-053",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Horizontal marks around neck, rope",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T02:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks, minor abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed trachea, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Sedatives detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Forced entry present. Signs of struggle evident."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-054",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Stab wound, 8cm depth",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms, minor bruising",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated intestines, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-055",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "CO level 30%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO level elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Car engine running, accidental death suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-056",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple gunshot wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Various, 7–11mm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Frontal and lateral",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T19:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal bleeding, spleen rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cocaine",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking garage. Suspected gang-related homicide."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-057",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Foam in airways, fluid in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river near bridge. No signs of foul play."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-058",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:25:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental electrocution likely."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-059",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T03:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom with drug paraphernalia. No forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-060",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned building. Inadequate clothing for weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-061",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "30° from right side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T00:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising around wound, abrasions on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated intestines, minor liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis fixed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley behind residential building. Signs of struggle evident."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-062",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 15cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T21:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on forehead and cheeks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near construction site. No witnesses present."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-063",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Rope impressions around neck, diagonal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T02:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks on neck, abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed trachea, hemorrhage in neck muscles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Forced entry evident, signs of struggle."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-064",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Incised wound, 10cm length",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Top-right to bottom-left",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive cuts on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, minor heart laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Blood spatter suggests close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-065",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "CO level 35%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Car engine running, accidental death suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-066",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple stab wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Several, 6–12cm, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various angles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T20:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms, bruising on torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cannabis metabolites",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-067",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in bathtub",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T08:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor contusions on elbows",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, frothy fluid in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.10%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bathroom. No forced entry, accidental drowning possible."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-068",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:55:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-069",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T04:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, methadone",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Drug paraphernalia present, no forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-070",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse. Clothing inadequate for cold weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-071",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to back",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "25° from upper left",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T01:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising around wound, minor abrasions on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley behind commercial building. Suspected close-range shooting."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-072",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 14cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on forehead and nose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near construction site. No eyewitnesses."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-073",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Rope impressions around neck, diagonal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T03:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks on neck, abrasions on wrists",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed larynx, neck hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-074",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to abdomen",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Incised wound, 10cm length",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from left side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T21:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated intestines, minor liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Close-range attack suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-075",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "CO level 32%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Car engine running, accidental death likely."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-076",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple stab wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Several, 5–12cm, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T20:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cannabis metabolites",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-077",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in river",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T08:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, frothy fluid in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river. No signs of foul play."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-078",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-079",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T05:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, methadone",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Drug paraphernalia present."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-080",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse. Clothing inadequate for cold weather."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-081",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Gunshot wound to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Circular, 9mm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "30° from front-left",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T02:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising around chest, minor abrasions on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lung, minor rib fractures",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis settling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.06%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in parking lot. Close-range shooting suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-082",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Blunt force trauma to head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Large contusion, 16cm diameter",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct frontal impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising on forehead and cheeks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Skull fracture, subdural hematoma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near alley. No eyewitnesses."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-083",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Ligature strangulation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Rope impressions around neck, horizontal",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T03:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red marks on neck, abrasions on hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Collapsed larynx, neck hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in storage room. Signs of forced entry."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-084",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Sharp force trauma to chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Incised wound, 11cm length",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "45° from top-right",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T22:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, minor heart laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, early decomposition"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Close-range attack suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-085",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis on lips, pale skin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "CO level 33%, lungs congested",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis present, livor mortis diffuse"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "CO elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Accidental death suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-086",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Multiple stab wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Several, 5–11cm, irregular edges",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Various angles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T20:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Defensive wounds on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Perforated lungs, liver laceration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis fully established"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Cannabis metabolites",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in alley. Blood spatter indicates close-range attack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-087",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in bathtub",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T08:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor contusions on elbows",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, frothy fluid in airway",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.09%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bathroom. No forced entry, accidental drowning likely."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-088",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-17T23:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns on palms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest due to electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of OTC painkillers",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in workshop. Accidental exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-089",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drug overdose",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T05:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Pinprick marks on arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, moderate livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Heroin, prescription opioids",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in bedroom. Drug paraphernalia present."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-090",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on fingers, toes, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, minor organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outside near abandoned warehouse. Inadequate clothing for cold."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-091",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Chemical burn and inhalation of industrial acid fumes",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Severe tissue necrosis on face and hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct exposure from right side",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T09:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Corrosive burns, blistering, singed hair",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe respiratory tract damage, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed due to chemical effects"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Hydrochloric acid inhalation detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in abandoned chemical factory. Protective equipment absent."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-092",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Animal attack (large canine bite)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Torn flesh with deep puncture wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple angles, defensive wounds on forearms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe lacerations on torso and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Multiple rib fractures, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in rural farmland. Attack likely by stray dog pack."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-093",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Explosion-related trauma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Fragmentation injuries, burns, shrapnel penetration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple angles, scattered debris",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T01:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe burns, open wounds with embedded fragments",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lung contusions, internal hemorrhaging, organ rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed, skin charring observed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sedatives",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near a warehouse explosion site. No witnesses available."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-094",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Asphyxiation due to plastic bag smothering",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T04:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Petechial hemorrhages in eyes and face",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, congestion in brain and lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Traces of sleeping pills",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in small apartment. No signs of forced entry, possible foul play."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-095",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "High-voltage electrical shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Linear burn marks on palms and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with power line",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T03:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns, singed clothing",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, muscular necrosis",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration at entry points"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in industrial site. Accidental electrocution suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-096",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe hypothermia compounded by alcohol intoxication",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T08:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Frostbite on extremities, cyanosis",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, organ shrinkage, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.12%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near frozen river. Clothing inadequate for exposure."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-097",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Industrial machinery accident (crushed torso)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Extensive crushing injuries, deformed rib cage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple angles",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T06:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Crushing wounds, contusions on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe internal organ damage, hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial, skin abrasions present"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.01%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found at factory site. Safety protocols were not followed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-098",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Intentional poisoning with cyanide",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T05:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Vomiting, frothing at mouth",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe tissue hypoxia, reddened organs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, livor mortis cherry-red"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Cyanide detected in blood and stomach"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in kitchen. Suicide suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-099",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Fall from height (traumatic impact)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple contusions and fractures",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Impact on feet and back",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T07:05:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Fractured limbs, skull contusion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.04%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near cliffside. Accidental or intentional fall under investigation."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-100",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction (anaphylaxis)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T08:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Facial swelling, hives on chest and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway edema, pulmonary congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, skin discoloration from swelling"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "High histamine response detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in home kitchen. Known allergy to peanuts confirmed."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-101",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Lightning strike",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Lichtenberg figures on skin, singed hair",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct overhead strike",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T14:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Burn marks on torso, face, and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, vascular rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed due to heat and lightning effects"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outdoors during storm. Witnesses report flash of lightning nearby."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-102",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe snakebite (venomous)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Two puncture marks on left calf",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T15:45:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling and bruising at bite site",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Hemorrhaging, organ necrosis, systemic shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in rural area near forest path. Snake identified as King Cobra."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-103",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Hyperthermia due to heatstroke",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T13:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Skin flushed, severe sweating, sunburn patches",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ failure, dehydration, brain swelling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rapid decomposition due to high temperature"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.05%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in desert area. No shelter, prolonged sun exposure."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-104",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Radiation exposure (acute)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T16:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Skin erythema, hair loss",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Bone marrow suppression, internal organ degeneration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Elevated radioactive isotopes in blood"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near abandoned nuclear facility. Safety gear absent."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-105",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to bee stings",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple sting marks on arms and face",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T12:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling, hives, facial edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway obstruction, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Histamine reaction elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in apiary. Known bee allergy confirmed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-106",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Industrial chemical explosion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Fragmentation injuries, burns, lacerations",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T17:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Shrapnel wounds, burns on limbs and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, pulmonary contusion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed due to blast"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Chemical residues detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near chemical storage warehouse. Witnesses reported loud explosion."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-107",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Complications from electrocution in water",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and feet",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Contact with submerged live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T18:35:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate, skin discoloration near burns"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in swimming pool. Accidental electrocution suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-108",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe dehydration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T14:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Sunken eyes, dry skin, cracked lips",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Kidney failure, liver congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis slow due to extreme dehydration"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.03%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in desert area. No water access for prolonged period."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-109",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Suffocation due to mudslide",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T15:20:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions from debris",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary congestion, organ compression",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis, partial livor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim trapped under mudslide in hilly area. Rescue attempted but unsuccessful."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-110",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe frostbite with hypothermia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Tissue necrosis on toes, fingers, ears",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T19:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Blackened extremities, skin pale",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Vasoconstriction, organ shrinkage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin cold, livor mortis absent"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.09%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in mountain area. Inadequate clothing, exposure for hours."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-111",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Avalanche trauma and asphyxiation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Crushing injuries from snow debris",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple impacts from falling snow and ice",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T20:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruising, abrasions, frostbite on exposed areas",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary compression, rib fractures",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Skin pale, early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found buried under snow in mountainous region. Rescue delayed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-112",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Drowning in capsized boat",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Minor abrasions on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T21:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises from impact with boat and rocks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, water in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis beginning, skin wrinkling on fingers"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.07%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river after boating accident. No life jacket worn."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-113",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Inhalation of toxic gas (carbon tetrachloride)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T22:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Skin irritation on face and hands",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Severe liver and kidney damage, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Carbon tetrachloride detected in blood and lungs"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in chemical storage room. Accidental exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-114",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe tornado impact",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple contusions and lacerations",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Blunt trauma from flying debris",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T23:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Crushed limbs, deep cuts, head trauma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, internal hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial, livor mortis patchy"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in residential area after tornado. Structures destroyed around."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-115",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Excessive exposure to hydrogen sulfide gas",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T20:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Respiratory distress marks, cyanosis",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Lung and brain hypoxia, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Hydrogen sulfide detected in blood and lungs"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in sewage treatment area. Industrial accident suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-116",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to shellfish",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T21:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Facial swelling, hives on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway edema, pulmonary congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.01%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "High histamine reaction detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in home kitchen. Known shellfish allergy confirmed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-117",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Industrial crushing accident (hydraulic press)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Extensive compression of torso and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple points of trauma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T22:40:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe crushing wounds, contusions, bone fractures",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Internal organ rupture, hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial, skin abrasions present"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in factory. Safety violations reported."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-118",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe fungal infection leading to septicemia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Skin lesions on limbs and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-18T23:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Reddish lesions, swelling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Septicemia, organ failure, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Antifungal medication detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in damp basement. Chronic infection exacerbated by delayed medical care."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-119",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe lightning-induced cardiac arrest indoors",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on arms and chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct through nearby electrical wiring",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T00:15:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Singed clothing, minor burns",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrhythmia, vascular rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in home during storm. Witnesses report lightning strike near building."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-120",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Rare venomous spider bite",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small puncture on right forearm",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T01:00:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Local swelling, redness, blistering",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Neurotoxic symptoms, respiratory distress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Spider species identified as highly venomous."
+&nbsp; }
+]
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-121",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe mushroom poisoning (Amanita phalloides)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T02:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Vomiting, diarrhea, dehydration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Acute liver and kidney failure",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Alpha-amanitin detected in liver"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim consumed wild mushrooms. No witnesses."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-122",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe bee swarm attack",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple sting marks over torso and face",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T03:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling, facial edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway obstruction, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.01%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Histamine elevated"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in forest clearing. Allergy unknown but severe."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-123",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe black widow spider bite",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small puncture on lower leg",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T03:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Localized redness, swelling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Neurotoxic symptoms, muscular cramps, respiratory distress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom neurotoxin detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in shed. Spider identified nearby."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-124",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe carbon monoxide poisoning",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T04:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cherry-red skin discoloration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Brain hypoxia, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "COHb level 72%"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage with running engine. Suicide suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-125",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Rare jellyfish envenomation (box jellyfish)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Linear red welts on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T05:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Burn-like marks along arms and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, pulmonary edema, systemic shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found on beach after swimming. Medical intervention delayed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-126",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe hypothermia after falling into icy river",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T05:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Cyanosis, frostbite on extremities",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ shrinkage, vasoconstriction, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.08%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in river valley. Clothing inadequate for temperature."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-127",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to unknown plant toxin",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T06:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Facial swelling, hives on arms and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway edema, pulmonary congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Plant-derived toxin detected in blood"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in botanical garden. Unknown plant exposure suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-128",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe industrial gas leak (ammonia)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T07:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Eye irritation, skin redness",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, organ hypoxia",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Ammonia detected in lungs"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near chemical plant. Protective equipment missing."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-129",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe dog mauling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Deep puncture and laceration wounds",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple directions, defensive wounds present",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T07:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe lacerations on torso and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in suburban area. Pack of stray dogs involved."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-130",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe crush injuries from cave-in",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Extensive compression of torso and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple impact points",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T08:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe crushing wounds, contusions, fractures",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, internal hemorrhage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in mining site cave-in. No immediate rescue."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-131",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution from high-voltage power lines",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burn marks on hands and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with power line",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T09:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found outdoors near electrical tower. Safety violation suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-132",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe foodborne bacterial infection (Salmonella septicemia)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T09:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Vomiting, diarrhea, dehydration",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Septicemia, organ failure",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Antibiotic traces",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Bacterial toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim consumed contaminated food at restaurant. Hospitalization delayed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-133",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe jellyfish envenomation (Irukandji)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small welts on torso and arms",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T10:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Red streaks, mild swelling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrhythmia, pulmonary edema, systemic shock",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found on beach. Medical assistance delayed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-134",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Complications from severe scorpion sting",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small puncture mark on hand",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T11:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling and redness",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Neurotoxic symptoms, respiratory distress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found near desert region. Scorpion species identified."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-135",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to medication",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T11:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Hives on arms and torso, facial swelling",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway edema, pulmonary congestion",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Detected medication caused reaction",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found at home. Medication allergy unknown previously."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-136",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe mushroom poisoning (Psilocybe cubensis)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T12:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Vomiting, diarrhea",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Acute liver and kidney stress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "Psychoactive compounds detected",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Psilocybin toxins detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim consumed wild mushrooms. Recreational ingestion suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-137",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe industrial chemical inhalation (chlorine gas)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T13:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Skin and eye irritation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, hypoxia, organ stress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Chlorine gas detected in lungs"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in chemical plant. Protective equipment absent."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-138",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe rattlesnake bite",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Two puncture marks on lower leg",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T13:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling, bruising",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Hemorrhage, shock, organ damage",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in forest path. Antivenom not administered."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-139",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to insect venom (wasp)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple sting marks",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T14:
+[
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-139",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe allergic reaction to insect venom (wasp)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple sting marks on arms and torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T14:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Facial swelling, hives, redness",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Airway obstruction, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Elevated histamine levels"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garden. No epinephrine administered. Allergic history unknown."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-140",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe fall from cliff",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Multiple blunt force injuries",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Impact on back and head",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T15:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Crushed skull, fractured limbs, lacerations",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Internal hemorrhage, organ rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis moderate"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0.02%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim fell near hiking trail. No witnesses."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-141",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe drowning in storm surge",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Minor abrasions",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T15:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Bruises from debris",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, water in lungs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Early rigor mortis"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim swept by flood waters during storm. Rescue failed."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-142",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Electrocution during lightning strike outdoors",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Lichtenberg figures on skin, singed hair",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct overhead strike",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T16:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Burn marks on torso and limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, vascular rupture",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed due to heat"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim outdoors during storm. No protective shelter."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-143",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe toxic inhalation (hydrogen cyanide)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T17:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Skin flushed",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Pulmonary edema, organ failure",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Hydrogen cyanide detected in blood"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in industrial lab. Safety breach suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-144",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe spider bite (brown recluse)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small necrotic lesion on torso",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T17:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Necrotic wound, redness around bite",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Systemic infection, organ stress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in garage. Delayed medical care worsened outcome."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-145",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe avalanche suffocation",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T18:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Minor abrasions",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Asphyxia, internal compression",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found buried under snow in mountainous region."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-146",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe shark attack",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Lacerations and bite marks on limbs",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple directions",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T19:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Severe limb loss, torn flesh",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Hemorrhage, organ trauma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim swimming in coastal waters. No immediate rescue."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-147",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe snake bite (mamba)",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Two puncture marks on neck",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T19:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling and redness at bite site",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Neurotoxic shock, cardiac arrest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in rural area. Antivenom not administered."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-148",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe tornado trauma",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Crushing and blunt injuries",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Multiple",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T20:30:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Fractures, lacerations",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Organ rupture, internal bleeding",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis partial"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in destroyed residential area after tornado."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-149",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe electrocution indoors",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Burns on hands and chest",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "Direct contact with live wire",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T21:10:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Second-degree burns",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Cardiac arrest, pulmonary edema",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis delayed"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "None"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in home. Faulty wiring suspected."
+&nbsp; },
+&nbsp; {
+&nbsp;&nbsp;&nbsp; "report_id": "FR-150",
+&nbsp;&nbsp;&nbsp; "autopsy": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "cause_of_death": "Severe venomous scorpion sting",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "wound_shape": "Small puncture on right foot",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "entry_angle": "N/A",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "estimated_time_of_death": "2025-10-19T21:50:00Z",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "external_injuries": "Swelling and redness",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "internal_findings": "Neurotoxic shock, respiratory distress",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "post_mortem_changes": "Rigor mortis early"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "toxicology": {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "alcohol_level": "0%",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "drugs_detected": "None",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "poisons": "Venom detected"
+&nbsp;&nbsp;&nbsp; },
+&nbsp;&nbsp;&nbsp; "notes": "Victim found in desert region. Delayed medical attention."
+&nbsp; }
+]

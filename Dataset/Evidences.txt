@@ -1,0 +1,423 @@
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E001	Fingerprint	Kitchen floor	2025-10-01 08:15	Good	Smudged partial print
+E002	Knife	Living room table	2025-10-01 09:00	Good	Fingerprints visible
+E003	Blood Sample	Bathroom sink	2025-10-01 09:30	Partial	Type A
+E004	Footprint	Garden path	2025-10-01 10:00	Good	Size 10, muddy
+E005	Clothing	Bedroom closet	2025-10-01 10:15	Damaged	Torn at the sleeve
+E006	Digital Device	Desk drawer	2025-10-01 11:00	Good	Smartphone, locked
+E007	Fiber Sample	Sofa	2025-10-01 11:30	Partial	Red fiber, cotton
+E008	Blood Sample	Car interior	2025-10-01 12:00	Good	Type B
+E009	Footprint	Driveway	2025-10-01 12:30	Damaged	Faint shoe print
+E010	Note	Kitchen counter	2025-10-01 13:00	Good	Handwritten, partially smudged
+E011	Fingerprint	Window sill	2025-10-01 13:15	Good	Clear print
+E012	Knife	Backyard shed	2025-10-01 13:45	Damaged	Rusted blade
+E013	Blood Sample	Staircase railing	2025-10-01 14:00	Partial	Type O
+E014	Footprint	Garage floor	2025-10-01 14:30	Good	Size 9
+E015	Clothing	Laundry room	2025-10-01 14:45	Damaged	Blood stains
+E016	Digital Device	Living room shelf	2025-10-01 15:00	Good	Tablet, unlocked
+E017	Fiber Sample	Carpet	2025-10-01 15:30	Partial	Blue synthetic fiber
+E018	Blood Sample	Kitchen floor	2025-10-01 16:00	Good	Type AB
+E019	Footprint	Balcony	2025-10-01 16:30	Damaged	Barefoot, partial
+E020	Note	Bedroom nightstand	2025-10-01 17:00	Good	Typed note, torn edge
+E021	Fingerprint	Car door handle	2025-10-01 17:15	Good	Smudged
+E022	Knife	Kitchen drawer	2025-10-01 17:45	Good	Clean blade
+E023	Blood Sample	Basement floor	2025-10-01 18:00	Partial	Type B
+E024	Footprint	Sidewalk	2025-10-01 18:30	Good	Muddy size 11
+E025	Clothing	Attic	2025-10-01 18:45	Damaged	Burn marks
+E026	Digital Device	Office desk	2025-10-01 19:00	Good	Laptop, password protected
+E027	Fiber Sample	Window curtain	2025-10-01 19:30	Partial	White cotton fiber
+E028	Blood Sample	Garden shed	2025-10-01 20:00	Good	Type O
+E029	Footprint	Staircase	2025-10-01 20:30	Damaged	Faint print
+E030	Note	Garage workbench	2025-10-01 21:00	Good	Handwritten, ink faded
+E031	Fingerprint	Front door handle	2025-10-01 21:15	Good	Clear print
+E032	Knife	Backyard patio	2025-10-01 21:45	Damaged	Broken handle
+E033	Blood Sample	Bedroom floor	2025-10-01 22:00	Partial	Type AB
+E034	Footprint	Front yard	2025-10-01 22:30	Good	Size 10, muddy
+E035	Clothing	Car trunk	2025-10-01 22:45	Damaged	Torn pocket
+E036	Digital Device	Kitchen drawer	2025-10-01 23:00	Good	Flash drive
+E037	Fiber Sample	Sofa cushion	2025-10-01 23:30	Partial	Mixed fibers
+E038	Blood Sample	Basement corner	2025-10-02 00:00	Good	Type A
+E039	Footprint	Roof	2025-10-02 00:30	Damaged	Slipper print
+E040	Note	Office shelf	2025-10-02 01:00	Good	Torn page
+E041	Fingerprint	Mailbox	2025-10-02 01:15	Good	Partial print
+E042	Knife	Basement drawer	2025-10-02 01:45	Good	Blood stains
+E043	Blood Sample	Side alley	2025-10-02 02:00	Partial	Type B
+E044	Footprint	Parking lot	2025-10-02 02:30	Good	Size 9, muddy
+E045	Clothing	Bedroom closet	2025-10-02 02:45	Damaged	Stained
+E046	Digital Device	Attic	2025-10-02 03:00	Good	Camera, functional
+E047	Fiber Sample	Carpet	2025-10-02 03:30	Partial	Wool fiber
+E048	Blood Sample	Garden soil	2025-10-02 04:00	Good	Type AB
+E049	Footprint	Driveway	2025-10-02 04:30	Damaged	Faint print
+E050	Note	Bedroom desk	2025-10-02 05:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E051	Fingerprint	Garage door handle	2025-10-02 05:15	Good	Smudged
+E052	Knife	Kitchen counter	2025-10-02 05:45	Damaged	Rusted edge
+E053	Blood Sample	Bathroom floor	2025-10-02 06:00	Partial	Type O
+E054	Footprint	Backyard	2025-10-02 06:30	Good	Size 11, muddy
+E055	Clothing	Laundry hamper	2025-10-02 06:45	Damaged	Torn sleeve
+E056	Digital Device	Office drawer	2025-10-02 07:00	Good	USB drive
+E057	Fiber Sample	Window frame	2025-10-02 07:30	Partial	Red synthetic fiber
+E058	Blood Sample	Kitchen sink	2025-10-02 08:00	Good	Type A
+E059	Footprint	Front porch	2025-10-02 08:30	Damaged	Partial print
+E060	Note	Bedroom shelf	2025-10-02 09:00	Good	Typed, legible
+E061	Fingerprint	Car interior	2025-10-02 09:15	Good	Clear print
+E062	Knife	Basement corner	2025-10-02 09:45	Damaged	Blade broken
+E063	Blood Sample	Staircase landing	2025-10-02 10:00	Partial	Type AB
+E064	Footprint	Side alley	2025-10-02 10:30	Good	Size 10
+E065	Clothing	Bedroom closet	2025-10-02 10:45	Damaged	Blood stains
+E066	Digital Device	Office desk	2025-10-02 11:00	Good	Laptop, functional
+E067	Fiber Sample	Carpet	2025-10-02 11:30	Partial	White cotton fiber
+E068	Blood Sample	Garden path	2025-10-02 12:00	Good	Type B
+E069	Footprint	Garage floor	2025-10-02 12:30	Damaged	Faint print
+E070	Note	Kitchen drawer	2025-10-02 13:00	Good	Handwritten, smudged
+E071	Fingerprint	Front door	2025-10-02 13:15	Good	Partial print
+E072	Knife	Backyard shed	2025-10-02 13:45	Damaged	Rusted handle
+E073	Blood Sample	Bathroom corner	2025-10-02 14:00	Partial	Type O
+E074	Footprint	Sidewalk	2025-10-02 14:30	Good	Muddy size 9
+E075	Clothing	Attic	2025-10-02 14:45	Damaged	Torn fabric
+E076	Digital Device	Kitchen counter	2025-10-02 15:00	Good	Tablet
+E077	Fiber Sample	Sofa cushion	2025-10-02 15:30	Partial	Mixed fibers
+E078	Blood Sample	Basement floor	2025-10-02 16:00	Good	Type AB
+E079	Footprint	Roof	2025-10-02 16:30	Damaged	Slipper print
+E080	Note	Office desk	2025-10-02 17:00	Good	Typed, readable
+E081	Fingerprint	Mailbox	2025-10-02 17:15	Good	Clear print
+E082	Knife	Kitchen drawer	2025-10-02 17:45	Damaged	Blood stains
+E083	Blood Sample	Garden soil	2025-10-02 18:00	Partial	Type B
+E084	Footprint	Parking lot	2025-10-02 18:30	Good	Size 10, muddy
+E085	Clothing	Bedroom nightstand	2025-10-02 18:45	Damaged	Stained
+E086	Digital Device	Attic	2025-10-02 19:00	Good	Camera, functional
+E087	Fiber Sample	Carpet	2025-10-02 19:30	Partial	Wool fiber
+E088	Blood Sample	Garden corner	2025-10-02 20:00	Good	Type AB
+E089	Footprint	Driveway	2025-10-02 20:30	Damaged	Faint print
+E090	Note	Bedroom desk	2025-10-02 21:00	Good	Handwritten, legible
+E091	Fingerprint	Car door handle	2025-10-02 21:15	Good	Partial print
+E092	Knife	Basement drawer	2025-10-02 21:45	Damaged	Broken handle
+E093	Blood Sample	Side alley	2025-10-02 22:00	Partial	Type A
+E094	Footprint	Garage floor	2025-10-02 22:30	Good	Size 9, muddy
+E095	Clothing	Bedroom closet	2025-10-02 22:45	Damaged	Torn pocket
+E096	Digital Device	Office desk	2025-10-02 23:00	Good	Smartphone, functional
+E097	Fiber Sample	Sofa	2025-10-02 23:30	Partial	Mixed fibers
+E098	Blood Sample	Basement corner	2025-10-03 00:00	Good	Type B
+E099	Footprint	Front yard	2025-10-03 00:30	Damaged	Slipper print
+E100	Note	Kitchen counter	2025-10-03 01:00	Good	Handwritten, torn edge
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E101	Fingerprint	Bedroom doorknob	2025-10-03 01:15	Good	Partial print
+E102	Knife	Garage workbench	2025-10-03 01:45	Damaged	Rusted blade
+E103	Blood Sample	Living room carpet	2025-10-03 02:00	Partial	Type O
+E104	Footprint	Side alley	2025-10-03 02:30	Good	Size 10
+E105	Clothing	Laundry room	2025-10-03 02:45	Damaged	Torn at hem
+E106	Digital Device	Bedroom drawer	2025-10-03 03:00	Good	Tablet, locked
+E107	Fiber Sample	Carpet	2025-10-03 03:30	Partial	Mixed fibers
+E108	Blood Sample	Kitchen sink	2025-10-03 04:00	Good	Type AB
+E109	Footprint	Garage	2025-10-03 04:30	Damaged	Faint print
+E110	Note	Office desk	2025-10-03 05:00	Good	Typed note
+E111	Fingerprint	Car dashboard	2025-10-03 05:15	Good	Clear print
+E112	Knife	Kitchen counter	2025-10-03 05:45	Damaged	Broken tip
+E113	Blood Sample	Bathroom floor	2025-10-03 06:00	Partial	Type B
+E114	Footprint	Front porch	2025-10-03 06:30	Good	Size 9
+E115	Clothing	Bedroom closet	2025-10-03 06:45	Damaged	Stained
+E116	Digital Device	Office drawer	2025-10-03 07:00	Good	Laptop, functional
+E117	Fiber Sample	Sofa cushion	2025-10-03 07:30	Partial	Red cotton fiber
+E118	Blood Sample	Basement floor	2025-10-03 08:00	Good	Type A
+E119	Footprint	Driveway	2025-10-03 08:30	Damaged	Slipper print
+E120	Note	Kitchen counter	2025-10-03 09:00	Good	Handwritten, partially smudged
+E121	Fingerprint	Bedroom window sill	2025-10-03 09:15	Good	Partial print
+E122	Knife	Backyard shed	2025-10-03 09:45	Damaged	Rusted handle
+E123	Blood Sample	Staircase railing	2025-10-03 10:00	Partial	Type O
+E124	Footprint	Garden path	2025-10-03 10:30	Good	Size 10, muddy
+E125	Clothing	Attic	2025-10-03 10:45	Damaged	Torn sleeve
+E126	Digital Device	Kitchen drawer	2025-10-03 11:00	Good	Flash drive
+E127	Fiber Sample	Window curtain	2025-10-03 11:30	Partial	White synthetic fiber
+E128	Blood Sample	Garden soil	2025-10-03 12:00	Good	Type AB
+E129	Footprint	Garage floor	2025-10-03 12:30	Damaged	Faint print
+E130	Note	Bedroom desk	2025-10-03 13:00	Good	Handwritten, legible
+E131	Fingerprint	Car door handle	2025-10-03 13:15	Good	Smudged
+E132	Knife	Basement drawer	2025-10-03 13:45	Damaged	Broken tip
+E133	Blood Sample	Bathroom corner	2025-10-03 14:00	Partial	Type B
+E134	Footprint	Sidewalk	2025-10-03 14:30	Good	Size 9
+E135	Clothing	Bedroom closet	2025-10-03 14:45	Damaged	Blood stains
+E136	Digital Device	Office desk	2025-10-03 15:00	Good	Smartphone, functional
+E137	Fiber Sample	Sofa	2025-10-03 15:30	Partial	Mixed fibers
+E138	Blood Sample	Basement corner	2025-10-03 16:00	Good	Type O
+E139	Footprint	Roof	2025-10-03 16:30	Damaged	Slipper print
+E140	Note	Office shelf	2025-10-03 17:00	Good	Typed note
+E141	Fingerprint	Mailbox	2025-10-03 17:15	Good	Partial print
+E142	Knife	Kitchen drawer	2025-10-03 17:45	Damaged	Rusted blade
+E143	Blood Sample	Garden path	2025-10-03 18:00	Partial	Type AB
+E144	Footprint	Parking lot	2025-10-03 18:30	Good	Size 10, muddy
+E145	Clothing	Bedroom nightstand	2025-10-03 18:45	Damaged	Torn fabric
+E146	Digital Device	Attic	2025-10-03 19:00	Good	Camera, functional
+E147	Fiber Sample	Carpet	2025-10-03 19:30	Partial	Wool fiber
+E148	Blood Sample	Garden corner	2025-10-03 20:00	Good	Type A
+E149	Footprint	Driveway	2025-10-03 20:30	Damaged	Faint print
+E150	Note	Bedroom desk	2025-10-03 21:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E151	Fingerprint	Front door handle	2025-10-03 21:15	Good	Partial print
+E152	Knife	Garage workbench	2025-10-03 21:45	Damaged	Rusted tip
+E153	Blood Sample	Living room carpet	2025-10-03 22:00	Partial	Type B
+E154	Footprint	Backyard	2025-10-03 22:30	Good	Size 11, muddy
+E155	Clothing	Laundry room	2025-10-03 22:45	Damaged	Torn at hem
+E156	Digital Device	Bedroom drawer	2025-10-03 23:00	Good	Tablet, locked
+E157	Fiber Sample	Carpet	2025-10-03 23:30	Partial	Mixed fibers
+E158	Blood Sample	Kitchen sink	2025-10-04 00:00	Good	Type AB
+E159	Footprint	Garage	2025-10-04 00:30	Damaged	Faint print
+E160	Note	Office desk	2025-10-04 01:00	Good	Typed note
+E161	Fingerprint	Car dashboard	2025-10-04 01:15	Good	Clear print
+E162	Knife	Kitchen counter	2025-10-04 01:45	Damaged	Broken handle
+E163	Blood Sample	Bathroom floor	2025-10-04 02:00	Partial	Type O
+E164	Footprint	Front porch	2025-10-04 02:30	Good	Size 9
+E165	Clothing	Bedroom closet	2025-10-04 02:45	Damaged	Blood stains
+E166	Digital Device	Office drawer	2025-10-04 03:00	Good	Laptop, functional
+E167	Fiber Sample	Sofa cushion	2025-10-04 03:30	Partial	Red cotton fiber
+E168	Blood Sample	Basement floor	2025-10-04 04:00	Good	Type A
+E169	Footprint	Driveway	2025-10-04 04:30	Damaged	Slipper print
+E170	Note	Kitchen counter	2025-10-04 05:00	Good	Handwritten, partially smudged
+E171	Fingerprint	Bedroom window sill	2025-10-04 05:15	Good	Partial print
+E172	Knife	Backyard shed	2025-10-04 05:45	Damaged	Rusted handle
+E173	Blood Sample	Staircase railing	2025-10-04 06:00	Partial	Type B
+E174	Footprint	Garden path	2025-10-04 06:30	Good	Size 10, muddy
+E175	Clothing	Attic	2025-10-04 06:45	Damaged	Torn sleeve
+E176	Digital Device	Kitchen drawer	2025-10-04 07:00	Good	Flash drive
+E177	Fiber Sample	Window curtain	2025-10-04 07:30	Partial	White synthetic fiber
+E178	Blood Sample	Garden soil	2025-10-04 08:00	Good	Type AB
+E179	Footprint	Garage floor	2025-10-04 08:30	Damaged	Faint print
+E180	Note	Bedroom desk	2025-10-04 09:00	Good	Handwritten, legible
+E181	Fingerprint	Car door handle	2025-10-04 09:15	Good	Smudged
+E182	Knife	Basement drawer	2025-10-04 09:45	Damaged	Broken tip
+E183	Blood Sample	Bathroom corner	2025-10-04 10:00	Partial	Type O
+E184	Footprint	Sidewalk	2025-10-04 10:30	Good	Size 9
+E185	Clothing	Bedroom closet	2025-10-04 10:45	Damaged	Blood stains
+E186	Digital Device	Office desk	2025-10-04 11:00	Good	Smartphone, functional
+E187	Fiber Sample	Sofa	2025-10-04 11:30	Partial	Mixed fibers
+E188	Blood Sample	Basement corner	2025-10-04 12:00	Good	Type AB
+E189	Footprint	Roof	2025-10-04 12:30	Damaged	Slipper print
+E190	Note	Office shelf	2025-10-04 13:00	Good	Typed note
+E191	Fingerprint	Mailbox	2025-10-04 13:15	Good	Partial print
+E192	Knife	Kitchen drawer	2025-10-04 13:45	Damaged	Rusted blade
+E193	Blood Sample	Garden path	2025-10-04 14:00	Partial	Type A
+E194	Footprint	Parking lot	2025-10-04 14:30	Good	Size 10, muddy
+E195	Clothing	Bedroom nightstand	2025-10-04 14:45	Damaged	Torn fabric
+E196	Digital Device	Attic	2025-10-04 15:00	Good	Camera, functional
+E197	Fiber Sample	Carpet	2025-10-04 15:30	Partial	Wool fiber
+E198	Blood Sample	Garden corner	2025-10-04 16:00	Good	Type B
+E199	Footprint	Driveway	2025-10-04 16:30	Damaged	Faint print
+E200	Note	Bedroom desk	2025-10-04 17:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E201	Fingerprint	Front door knob	2025-10-04 17:15	Good	Partial print
+E202	Knife	Garage shelf	2025-10-04 17:45	Damaged	Rusted edge
+E203	Blood Sample	Living room floor	2025-10-04 18:00	Partial	Type A
+E204	Footprint	Backyard	2025-10-04 18:30	Good	Size 10, muddy
+E205	Clothing	Laundry basket	2025-10-04 18:45	Damaged	Torn fabric
+E206	Digital Device	Bedroom drawer	2025-10-04 19:00	Good	Tablet, locked
+E207	Fiber Sample	Carpet	2025-10-04 19:30	Partial	Mixed fibers
+E208	Blood Sample	Kitchen counter	2025-10-04 20:00	Good	Type B
+E209	Footprint	Garage floor	2025-10-04 20:30	Damaged	Faint print
+E210	Note	Office desk	2025-10-04 21:00	Good	Typed note
+E211	Fingerprint	Car handle	2025-10-04 21:15	Good	Clear print
+E212	Knife	Kitchen drawer	2025-10-04 21:45	Damaged	Broken tip
+E213	Blood Sample	Bathroom floor	2025-10-04 22:00	Partial	Type AB
+E214	Footprint	Front porch	2025-10-04 22:30	Good	Size 9
+E215	Clothing	Bedroom closet	2025-10-04 22:45	Damaged	Blood stains
+E216	Digital Device	Office drawer	2025-10-04 23:00	Good	Laptop, functional
+E217	Fiber Sample	Sofa cushion	2025-10-04 23:30	Partial	Red cotton fiber
+E218	Blood Sample	Basement floor	2025-10-05 00:00	Good	Type O
+E219	Footprint	Driveway	2025-10-05 00:30	Damaged	Slipper print
+E220	Note	Kitchen counter	2025-10-05 01:00	Good	Handwritten, partially smudged
+E221	Fingerprint	Bedroom window sill	2025-10-05 01:15	Good	Partial print
+E222	Knife	Backyard shed	2025-10-05 01:45	Damaged	Rusted handle
+E223	Blood Sample	Staircase railing	2025-10-05 02:00	Partial	Type B
+E224	Footprint	Garden path	2025-10-05 02:30	Good	Size 10, muddy
+E225	Clothing	Attic	2025-10-05 02:45	Damaged	Torn sleeve
+E226	Digital Device	Kitchen drawer	2025-10-05 03:00	Good	Flash drive
+E227	Fiber Sample	Window curtain	2025-10-05 03:30	Partial	White synthetic fiber
+E228	Blood Sample	Garden soil	2025-10-05 04:00	Good	Type AB
+E229	Footprint	Garage floor	2025-10-05 04:30	Damaged	Faint print
+E230	Note	Bedroom desk	2025-10-05 05:00	Good	Handwritten, legible
+E231	Fingerprint	Car door handle	2025-10-05 05:15	Good	Smudged
+E232	Knife	Basement drawer	2025-10-05 05:45	Damaged	Broken tip
+E233	Blood Sample	Bathroom corner	2025-10-05 06:00	Partial	Type O
+E234	Footprint	Sidewalk	2025-10-05 06:30	Good	Size 9
+E235	Clothing	Bedroom closet	2025-10-05 06:456	Damaged	Blood stains
+E236	Digital Device	Office desk	2025-10-05 07:00	Good	Smartphone, functional
+E237	Fiber Sample	Sofa	2025-10-05 07:30	Partial	Mixed fibers
+E238	Blood Sample	Basement corner	2025-10-05 08:00	Good	Type AB
+E239	Footprint	Roof	2025-10-05 08:30	Damaged	Slipper print
+E240	Note	Office shelf	2025-10-05 09:00	Good	Typed note
+E241	Fingerprint	Mailbox	2025-10-05 09:15	Good	Partial print
+E242	Knife	Kitchen drawer	2025-10-05 09:45	Damaged	Rusted blade
+E243	Blood Sample	Garden path	2025-10-05 10:00	Partial	Type A
+E244	Footprint	Parking lot	2025-10-05 10:30	Good	Size 10, muddy
+E245	Clothing	Bedroom nightstand	2025-10-05y 10:45	Damaged	Torn fabric
+E246	Digital Device	Attic	2025-10-05 11:00	Good	Camera, functional
+E247	Fiber Sample	Carpet	2025-10-05 11:30	Partial	Wool fiber
+E248	Blood Sample	Garden corner	2025-10-05 12:00	Good	Type B
+E249	Footprint	Driveway	2025-10-05 12:30	Damaged	Faint print
+E250	Note	Bedroom desk	2025-10-05 13:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E251	Fingerprint	Front gate handle	2025-10-05 13:15	Good	Partial print
+E252	Knife	Garage workbench	2025-10-05 13:45	Damaged	Rusted tip
+E253	Blood Sample	Living room carpet	2025-10-05 14:00	Partial	Type A
+E254	Footprint	Backyard	2025-10-05 14:30	Good	Size 11, muddy
+E255	Clothing	Laundry basket	2025-10-05 14:45	Damaged	Torn at hem
+E256	Digital Device	Bedroom drawer	2025-10-05 15:00	Good	Tablet, locked
+E257	Fiber Sample	Carpet	2025-10-05 15:30	Partial	Mixed fibers
+E258	Blood Sample	Kitchen sink	2025-10-05 16:00	Good	Type B
+E259	Footprint	Garage floor	2025-10-05 16:30	Damaged	Faint print
+E260	Note	Office desk	2025-10-05 17:00	Good	Typed note
+E261	Fingerprint	Car dashboard	2025-10-05 17:15	Good	Clear print
+E262	Knife	Kitchen counter	2025-10-05 17:45	Damaged	Broken handle
+E263	Blood Sample	Bathroom floor	2025-10-05 18:00	Partial	Type AB
+E264	Footprint	Front porch	2025-10-05 18:30	Good	Size 9
+E265	Clothing	Bedroom closet	2025-10-05 18:45	Damaged	Blood stains
+E266	Digital Device	Office drawer	2025-10-05 19:00	Good	Laptop, functional
+E267	Fiber Sample	Sofa cushion	2025-10-05 19:30	Partial	Red cotton fiber
+E268	Blood Sample	Basement floor	2025-10-05 20:00	Good	Type O
+E269	Footprint	Driveway	2025-10-05 20:30	Damaged	Slipper print
+E270	Note	Kitchen counter	2025-10-05 21:00	Good	Handwritten, partially smudged
+E271	Fingerprint	Bedroom window sill	2025-10-05 21:15	Good	Partial print
+E272	Knife	Backyard shed	2025-10-05 21:45	Damaged	Rusted handle
+E273	Blood Sample	Staircase railing	2025-10-05 22:00	Partial	Type B
+E274	Footprint	Garden path	2025-10-05 22:30	Good	Size 10, muddy
+E275	Clothing	Attic	2025-10-05 22:45	Damaged	Torn sleeve
+E276	Digital Device	Kitchen drawer	2025-10-05 23:00	Good	Flash drive
+E277	Fiber Sample	Window curtain	2025-10-05 23:30	Partial	White synthetic fiber
+E278	Blood Sample	Garden soil	2025-10-06 00:00	Good	Type AB
+E279	Footprint	Garage floor	2025-10-06 00:30	Damaged	Faint print
+E280	Note	Bedroom desk	2025-10-06 01:00	Good	Handwritten, legible
+E281	Fingerprint	Car door handle	2025-10-06 01:15	Good	Smudged
+E282	Knife	Basement drawer	2025-10-06 01:45	Damaged	Broken tip
+E283	Blood Sample	Bathroom corner	2025-10-06 02:00	Partial	Type O
+E284	Footprint	Sidewalk	2025-10-06 02:30	Good	Size 9
+E285	Clothing	Bedroom closet	2025-10-06 02:45	Damaged	Blood stains
+E286	Digital Device	Office desk	2025-10-06 03:00	Good	Smartphone, functional
+E287	Fiber Sample	Sofa	2025-10-06 03:30	Partial	Mixed fibers
+E288	Blood Sample	Basement corner	2025-10-06 04:00	Good	Type AB
+E289	Footprint	Roof	2025-10-06 04:30	Damaged	Slipper print
+E290	Note	Office shelf	2025-10-06 05:00	Good	Typed note
+E291	Fingerprint	Mailbox	2025-10-06 05:15	Good	Partial print
+E292	Knife	Kitchen drawer	2025-10-06 05:45	Damaged	Rusted blade
+E293	Blood Sample	Garden path	2025-10-06 06:00	Partial	Type A
+E294	Footprint	Parking lot	2025-10-06 06:30	Good	Size 10, muddy
+E295	Clothing	Bedroom nightstand	2025-10-06 06:45	Damaged	Torn fabric
+E296	Digital Device	Attic	2025-10-06 07:00	Good	Camera, functional
+E297	Fiber Sample	Carpet	2025-10-06 07:30	Partial	Wool fiber
+E298	Blood Sample	Garden corner	2025-10-06 08:00	Good	Type B
+E299	Footprint	Driveway	2025-10-06 08:30	Damaged	Faint print
+E300	Note	Bedroom desk	2025-10-06 09:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E301	Fingerprint	Front door knob	2025-10-06 09:15	Good	Partial print
+E302	Knife	Garage shelf	2025-10-06 09:45	Damaged	Rusted edge
+E303	Blood Sample	Living room floor	2025-10-06 10:00	Partial	Type AB
+E304	Footprint	Backyard	2025-10-06 10:30	Good	Size 11, muddy
+E305	Clothing	Laundry basket	2025-10-06 10:45	Damaged	Torn fabric
+E306	Digital Device	Bedroom drawer	2025-10-06 11:00	Good	Tablet, locked
+E307	Fiber Sample	Carpet	2025-10-06 11:30	Partial	Mixed fibers
+E308	Blood Sample	Kitchen sink	2025-10-06 12:00	Good	Type B
+E309	Footprint	Garage floor	2025-10-06 12:30	Damaged	Faint print
+E310	Note	Office desk	2025-10-06 13:00	Good	Typed note
+E311	Fingerprint	Car dashboard	2025-10-06 13:15	Good	Clear print
+E312	Knife	Kitchen counter	2025-10-06 13:45	Damaged	Broken handle
+E313	Blood Sample	Bathroom floor	2025-10-06 14:00	Partial	Type O
+E314	Footprint	Front porch	2025-10-06 14:30	Good	Size 9
+E315	Clothing	Bedroom closet	2025-10-06 14:45	Damaged	Blood stains
+E316	Digital Device	Office drawer	2025-10-06 15:00	Good	Laptop, functional
+E317	Fiber Sample	Sofa cushion	2025-10-06 15:30	Partial	Red cotton fiber
+E318	Blood Sample	Basement floor	2025-10-06 16:00	Good	Type A
+E319	Footprint	Driveway	2025-10-06 16:30	Damaged	Slipper print
+E320	Note	Kitchen counter	2025-10-06 17:00	Good	Handwritten, partially smudged
+E321	Fingerprint	Bedroom window sill	2025-10-06 17:15	Good	Partial print
+E322	Knife	Backyard shed	2025-10-06 17:45	Damaged	Rusted handle
+E323	Blood Sample	Staircase railing	2025-10-06 18:00	Partial	Type B
+E324	Footprint	Garden path	2025-10-06 18:30	Good	Size 10, muddy
+E325	Clothing	Attic	2025-10-06 18:45	Damaged	Torn sleeve
+E326	Digital Device	Kitchen drawer	2025-10-06 19:00	Good	Flash drive
+E327	Fiber Sample	Window curtain	2025-10-06 19:30	Partial	White synthetic fiber
+E328	Blood Sample	Garden soil	2025-10-06 20:00	Good	Type AB
+E329	Footprint	Garage floor	2025-10-06 20:30	Damaged	Faint print
+E330	Note	Bedroom desk	2025-10-06 21:00	Good	Handwritten, legible
+E331	Fingerprint	Car door handle	2025-10-06 21:15	Good	Smudged
+E332	Knife	Basement drawer	2025-10-06 21:45	Damaged	Broken tip
+E333	Blood Sample	Bathroom corner	2025-10-06 22:00	Partial	Type O
+E334	Footprint	Sidewalk	2025-10-06 22:30	Good	Size 9
+E335	Clothing	Bedroom closet	2025-10-06 22:45	Damaged	Blood stains
+E336	Digital Device	Office desk	2025-10-06 23:00	Good	Smartphone, functional
+E337	Fiber Sample	Sofa	2025-10-06 23:30	Partial	Mixed fibers
+E338	Blood Sample	Basement corner	2025-10-07 00:00	Good	Type AB
+E339	Footprint	Roof	2025-10-07 00:30	Damaged	Slipper print
+E340	Note	Office shelf	2025-10-07 01:00	Good	Typed note
+E341	Fingerprint	Mailbox	2025-10-07 01:15	Good	Partial print
+E342	Knife	Kitchen drawer	2025-10-07 01:45	Damaged	Rusted blade
+E343	Blood Sample	Garden path	2025-10-07 02:00	Partial	Type A
+E344	Footprint	Parking lot	2025-10-07 02:30	Good	Size 10, muddy
+E345	Clothing	Bedroom nightstand	2025-10-07 02:45	Damaged	Torn fabric
+E346	Digital Device	Attic	2025-10-07 03:00	Good	Camera, functional
+E347	Fiber Sample	Carpet	2025-10-07 03:30	Partial	Wool fiber
+E348	Blood Sample	Garden corner	2025-10-07 04:00	Good	Type B
+E349	Footprint	Driveway	2025-10-07 04:30	Damaged	Faint print
+E350	Note	Bedroom desk	2025-10-07 05:00	Good	Handwritten, readable
+
+Evidence ID	Type	Location Found	Date &amp; Time Found	Condition	Notes
+
+E351	Fingerprint	Front door knob	2025-10-07 05:15	Good	Partial print
+E352	Knife	Garage shelf	2025-10-07 05:45	Damaged	Rusted tip
+E353	Blood Sample	Living room carpet	2025-10-07 06:00	Partial	Type AB
+E354	Footprint	Backyard	2025-10-07 06:30	Good	Size 11, muddy
+E355	Clothing	Laundry basket	2025-10-07 06:45	Damaged	Torn fabric
+E356	Digital Device	Bedroom drawer	2025-10-07 07:00	Good	Tablet, locked
+E357	Fiber Sample	Carpet	2025-10-07 07:30	Partial	Mixed fibers
+E358	Blood Sample	Kitchen sink	2025-10-07 08:00	Good	Type B
+E359	Footprint	Garage floor	2025-10-07 08:30	Damaged	Faint print
+E360	Note	Office desk	2025-10-07 09:00	Good	Typed note
+E361	Fingerprint	Car dashboard	2025-10-07 09:15	Good	Clear print
+E362	Knife	Kitchen counter	2025-10-07 09:45	Damaged	Broken handle
+E363	Blood Sample	Bathroom floor	2025-10-07 10:00	Partial	Type O
+E364	Footprint	Front porch	2025-10-07 10:30	Good	Size 9
+E365	Clothing	Bedroom closet	2025-10-07 10:45	Damaged	Blood stains
+E366	Digital Device	Office drawer	2025-10-07 11:00	Good	Laptop, functional
+E367	Fiber Sample	Sofa cushion	2025-10-07 11:30	Partial	Red cotton fiber
+E368	Blood Sample	Basement floor	2025-10-07 12:00	Good	Type A
+E369	Footprint	Driveway	2025-10-07 12:30	Damaged	Slipper print
+E370	Note	Kitchen counter	2025-10-07 13:00	Good	Handwritten, partially smudged
+E371	Fingerprint	Bedroom window sill	2025-10-07 13:15	Good	Partial print
+E372	Knife	Backyard shed	2025-10-07 13:45	Damaged	Rusted handle
+E373	Blood Sample	Staircase railing	2025-10-07 14:00	Partial	Type B
+E374	Footprint	Garden path	2025-10-07 14:30	Good	Size 10, muddy
+E375	Clothing	Attic	2025-10-07 14:45	Damaged	Torn sleeve
+E376	Digital Device	Kitchen drawer	2025-10-07 15:00	Good	Flash drive
+E377	Fiber Sample	Window curtain	2025-10-07 15:30	Partial	White synthetic fiber
+E378	Blood Sample	Garden soil	2025-10-07 16:00	Good	Type AB
+E379	Footprint	Garage floor	2025-10-07 16:30	Damaged	Faint print
+E380	Note	Bedroom desk	2025-10-07 17:00	Good	Handwritten, legible
+E381	Fingerprint	Car door handle	2025-10-07 17:15	Good	Smudged
+E382	Knife	Basement drawer	2025-10-07 17:45	Damaged	Broken tip
+E383	Blood Sample	Bathroom corner	2025-10-07 18:00	Partial	Type O
+E384	Footprint	Sidewalk	2025-10-07 18:30	Good	Size 9
+E385	Clothing	Bedroom closet	2025-10-07 18:45	Damaged	Blood stains
+E386	Digital Device	Office desk	2025-10-07 19:00	Good	Smartphone, functional
+E387	Fiber Sample	Sofa	2025-10-07 19:30	Partial	Mixed fibers
+E388	Blood Sample	Basement corner	2025-10-07 20:00	Good	Type AB
+E389	Footprint	Roof	2025-10-07 20:30	Damaged	Slipper print
+E390	Note	Office shelf	2025-10-07 21:00	Good	Typed note
+E391	Fingerprint	Mailbox	2025-10-07 21:15	Good	Partial print
+E392	Knife	Kitchen drawer	2025-10-07 21:45	Damaged	Rusted blade
+E393	Blood Sample	Garden path	2025-10-07 22:00	Partial	Type A
+E394	Footprint	Parking lot	2025-10-07 22:30	Good	Size 10, muddy
+E395	Clothing	Bedroom nightstand	2025-10-07 22:45	Damaged	Torn fabric
+E396	Digital Device	Attic	2025-10-07 23:00	Good	Camera, functional
+E397	Fiber Sample	Carpet	2025-10-07 23:30	Partial	Wool fiber
+E398	Blood Sample	Garden corner	2025-10-08 00:00	Good	Type B
+E399	Footprint	Driveway	2025-10-08 00:30	Damaged	Faint print
+E400	Note	Bedroom desk	2025-10-08 01:00	Good	Handwritten, readable
