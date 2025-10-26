@@ -1,0 +1,87 @@
+
+1. EVIDENCE DATASET
+
+Evidence ID Item Location Found Description Forensic Details
+E001 Handgun Living room floor Glock 17, serial: GLK-7829 One round fired, fingerprint dusted
+E002 Earing Near victim's right hand Gold, diamond-shaped, missing pair Sent for DNA analysis
+E003 Glasses Kitchen counter Black wire frames, prescription -2.5 Doesn't belong to victim
+E004 Sandal Front doorway Size 10, brown leather, mud on sole Soil sample collected
+E005 Keys Hallway table 4 keys, one marked "Storage 4B" Being traced
+E006 Shoeprint Near back door Size 11, zigzag pattern Cast made, brand: Nike Air
+E007 Fingerprint Gun barrel Partial thumb print Sent to database
+E008 Bullet Victim's chest 9mm, recovered during autopsy Ballistics analysis pending
+E009 Victim's Phone Bedroom nightstand iPhone 14, cracked screen Sent for digital forensics
+E010 Broken Vase Living room floor Glass fragments Being reconstructed
+E011 Blood Stain Carpet near body Type A+ (victim's type) Pattern documented
+E012 Fibers Victim's clothing Red cotton threads Sent to lab
+E013 Wine Glass Kitchen sink Lipstick stain, wine residue DNA swab taken
+E014 Security Wires Front door Cut cables Tool marks documented
+E015 Handwritten Note Victim's purse "Meet me tonight - 8 PM" Handwriting analysis
+
+2. WITNESS STATEMENTS DATASET
+
+Witness ID Name Contact Statement Recorded Statement Text
+W001 Sarah Chen 555-0101 2024-01-15 22:30 "Heard loud argument around 8:30 PM, then single gunshot at 8:45 PM"
+W002 Mark Johnson 555-0102 2024-01-15 23:15 "Victim seemed stressed about work project recently"
+W003 Lisa Rodriguez 555-0103 2024-01-16 09:00 "She was dating someone new but kept details private"
+W004 David Kim 555-0104 2024-01-16 10:30 "We broke up 2 months ago, I was at gym during incident"
+W005 Mrs. Wilkins 555-0105 2024-01-16 11:00 "Saw tall man in dark hoodie leaving around 9 PM"
+W006 James Peterson 555-0106 2024-01-16 11:30 "No unusual visitors logged, fire exit was propped open"
+W007 Michael Torres 555-0107 2024-01-16 12:00 "She lent money to a friend last week"
+W008 Amanda Lee 555-0108 2024-01-16 13:00 "Noticed her expensive new jewelry lately"
+W009 Security Guard 555-0109 2024-01-16 14:00 "Camera system was down for 'maintenance'"
+W010 Delivery Man 555-0110 2024-01-16 15:00 "Delivered package at 7:45 PM, everything seemed normal"
+
+3. SUSPECTS DATASET
+
+Suspect ID Name Age Occupation Known Relationships
+S001 Robert Black 34 Architect Ex-boyfriend (broke up 2 months ago)
+S002 Jennifer White 33 Marketing Manager Work colleague, same department
+S003 Carlos Mendez 35 Business Owner Joint business venture partner
+S004 Amanda Gold 29 Fashion Designer Sister, inherits family property
+S005 Unknown Male ? Unknown Secret relationship per friends
+S006 Mike Johnson 42 Security Technician Installed cameras last week
+
+4. VICTIM FORENSIC DATASET
+
+Category Details
+Personal Info Emma Richardson, 32, Blonde, Marketing Executive
+Time of Death Estimated 8:45 PM ± 15 minutes
+Cause of Death Gunshot wound to chest
+Wound Details Entry: 4cm left of sternum, No exit wound
+Toxicology Blood alcohol: 0.08%, No drugs
+Physical Evidence Defensive hand wounds, Skin under nails, Foreign fibers
+Clothing Black dress, one earring missing, shoes off
+Last Meal Mediterranean food (approx 2 hours before death)
+
+5. ALIBIS DATASET
+
+Suspect ID Alibi Statement Verification Status
+S001 "At home watching TV alone" Unverified
+S002 "Working late at office until 10 PM" Security logs show entry/exit
+S003 "Business trip in next city" Hotel check-in confirmed
+S004 "At movie theater - Avengers Endgame" Ticket stub provided
+S005 No information available Unknown
+S006 "Off duty at home with family" Family confirms presence
+
+6. MOTIVES DATASET
+
+Suspect ID Potential Motives
+S001 Recent breakup, jealousy issues, emotional history
+S002 Workplace competition, same promotion candidate
+S003 Financial disputes in business, large sums involved
+S004 Inheritance of family estate, property worth $2M
+S005 Unknown relationship, possible blackmail or secrets
+S006 Access to security system, knowledge of camera blind spots
+
+7. TIMELINE DATASET
+
+Time Event Source
+7:30 PM Victim arrives home Phone location data
+7:45 PM Package delivered Witness W010
+8:00 PM Receives phone call Phone records
+8:30 PM Loud argument heard Witness W001
+8:45 PM Gunshot heard Witness W001
+9:00 PM Suspicious person leaving Witness W005
+9:15 PM Neighbor calls police Police records
+
