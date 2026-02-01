@@ -21,11 +21,13 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import {Textarea} from '@/components/ui/textarea';
-import {Label} from '@/components/ui/label';
 import {Input} from '@/components/ui/input';
 import {useToast} from '@/hooks/use-toast';
 import {PageHeader} from '@/components/page-header';
 import { type CaseDossierInput } from '@/ai/flows/create-case-dossier';
+import { useUser, useFirestore } from '@/firebase';
+import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
+
 
 // Helper to convert file to base64
 const toBase64 = (file: File): Promise<string> =>
@@ -42,6 +44,9 @@ export default function CaseAnalysisPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [crimeScenePictures, setCrimeScenePictures] = useState<string[]>([]);
   const [pictureFiles, setPictureFiles] = useState<File[]>([]);
+  
+  const { user } = useUser();
+  const firestore = useFirestore();
 
   const handlePictureUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (e.target.files) {
@@ -88,6 +93,21 @@ export default function CaseAnalysisPage() {
       }
 
       const result = await response.json();
+      
+      // Conditionally save the case record only if the user is signed in
+      if (user && firestore) {
+        try {
+          await addDoc(collection(firestore, 'users', user.uid, 'cases'), {
+            createdAt: serverTimestamp(),
+          });
+          toast({
+            title: 'Case Saved',
+            description: 'A record of this analysis has been saved to your profile.'
+          })
+        } catch (firestoreError) {
+            console.error("Failed to save case to Firestore:", firestoreError);
+        }
+      }
 
       // Store result in session storage to pass to the report page
       sessionStorage.setItem('caseDossierResult', JSON.stringify(result));
