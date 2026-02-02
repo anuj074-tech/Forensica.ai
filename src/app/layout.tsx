@@ -5,7 +5,6 @@ import { AppSidebar } from '@/components/layout/sidebar';
 import { AppHeader } from '@/components/layout/header';
 import { Toaster } from "@/components/ui/toaster";
 import { ThemeProvider } from '@/components/theme-provider';
-import { FirebaseClientProvider } from '@/firebase';
 
 export const metadata: Metadata = {
   title: 'Forensica AI',
@@ -31,18 +30,16 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <FirebaseClientProvider>
-            <SidebarProvider>
-              <div className="flex min-h-screen">
-                <AppSidebar />
-                <div className="flex flex-1 flex-col overflow-x-hidden">
-                  <AppHeader />
-                  <main className="flex-1 p-4 lg:p-6">{children}</main>
-                </div>
+          <SidebarProvider>
+            <div className="flex min-h-screen">
+              <AppSidebar />
+              <div className="flex flex-col flex-1">
+                <AppHeader />
+                <main className="flex-1 p-4 lg:p-6">{children}</main>
               </div>
-            </SidebarProvider>
-            <Toaster />
-          </FirebaseClientProvider>
+            </div>
+          </SidebarProvider>
+          <Toaster />
         </ThemeProvider>
       </body>
     </html>

@@ -8,26 +8,30 @@ import {
 } from "@/components/ui/chart";
 import { Bar, CartesianGrid, XAxis, YAxis, Legend, BarChart } from "recharts";
 
-export type ChartData = {
-  month: string;
-  cases: number;
-}[];
+const chartData = [
+  { month: "January", evidence: 186, statements: 80 },
+  { month: "February", evidence: 305, statements: 200 },
+  { month: "March", evidence: 237, statements: 120 },
+  { month: "April", evidence: 73, statements: 190 },
+  { month: "May", evidence: 209, statements: 130 },
+  { month: "June", evidence: 214, statements: 140 },
+];
 
 const chartConfig = {
-  cases: {
-    label: "Cases Analyzed",
+  evidence: {
+    label: "Evidence",
     color: "hsl(var(--primary))",
+  },
+  statements: {
+    label: "Statements",
+    color: "hsl(var(--accent))",
   },
 } satisfies ChartConfig;
 
-type CaseActivityChartProps = {
-    data: ChartData;
-}
-
-export function CaseActivityChart({ data }: CaseActivityChartProps) {
+export function CaseActivityChart() {
   return (
     <ChartContainer config={chartConfig} className="h-[300px] w-full">
-      <BarChart data={data} margin={{ top: 20, right: 20, left: -10, bottom: 0 }}>
+      <BarChart data={chartData}>
         <CartesianGrid vertical={false} />
         <XAxis
           dataKey="month"
@@ -36,13 +40,11 @@ export function CaseActivityChart({ data }: CaseActivityChartProps) {
           axisLine={false}
           tickFormatter={(value) => value.slice(0, 3)}
         />
-        <YAxis allowDecimals={false} />
-        <ChartTooltip
-            cursor={false}
-            content={<ChartTooltipContent indicator="dot" />}
-        />
+        <YAxis />
+        <ChartTooltip content={<ChartTooltipContent />} />
         <Legend />
-        <Bar dataKey="cases" fill="var(--color-cases)" radius={4} />
+        <Bar dataKey="evidence" fill="var(--color-evidence)" radius={4} />
+        <Bar dataKey="statements" fill="var(--color-statements)" radius={4} />
       </BarChart>
     </ChartContainer>
   );
